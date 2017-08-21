@@ -11,7 +11,7 @@
 name=AOSP
 
 # Manifest link. https:// is mandatory.
-# Example: https://github.com/cyanogenmod/android
+# Example: https://osdn.net/projects/android-x86/scm/git/manifest/
 manifest=https://android.googlesource.com/platform/manifest
 
 # Manifest branch.
